@@ -1,13 +1,13 @@
 import Reactd1 from "./components/Reactd1.js";
 import Reactd10 from "./components/Reactd10.js";
-import Reactd2 from "./Reactd2.js";
-import Reactd3 from "./Reactd3.js";
-import Reactd4 from "./Reactd4.js";
-import Reactd5 from "./Reactd5.js";
-import Reactd6 from "./Reactd6.js";
-import Reactd7 from "./Reactd7.js";
-import Reactd8 from "./Reactd8.js";
-import Reactd9 from "./Reactd9.js";
+import Reactd2 from "./components/Reactd2.js";
+import Reactd3 from "./components/Reactd3.js";
+import Reactd4 from "./components/Reactd4.js";
+import Reactd5 from "./components/Reactd5.js";
+import Reactd6 from "./components/Reactd6.js";
+import Reactd7 from "./components/Reactd7.js";
+import Reactd8 from "./components/Reactd8.js";
+import Reactd9 from "./components/Reactd9.js";
 
 function App() {
   //Default props

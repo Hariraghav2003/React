@@ -1,6 +1,6 @@
 import React from "react";
-import ThemeToggle from "./ThemeToggle.js";
-import UseReducer from "./Usereducer.js";
+import ThemeToggle from "../ThemeToggle.js";
+import UseReducer from "../hooks/Usereducer.js";
 
 function Reactd8() {
   return (
